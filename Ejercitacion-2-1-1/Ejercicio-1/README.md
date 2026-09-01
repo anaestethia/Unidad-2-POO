@@ -10,5 +10,5 @@ Este programa realiza una creacion de una clase llamada Persona y dos objetos (p
 
 ## Logica ultilizada
 
-Para resolver el ejercicio se utilizó [clases/objetos/variables].
+Para resolver ezl ejercicio se utilizó [clases/objetos/variables].
 
