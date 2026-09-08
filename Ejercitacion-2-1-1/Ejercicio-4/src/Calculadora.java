@@ -11,12 +11,11 @@ public class Calculadora {
         return n1 * n2;
     }
 
-    public void dividir(double n1, double n2) {
+    public double dividir(double n1, double n2) {
         if (n2 == 0.0) {
             System.out.println("No se puede dividir por cero.");
         }
-        else {
-            System.out.println(n1 / n2);
+        return n1/n2;
         }
     }
 }
