@@ -10,12 +10,13 @@ public class Contador {
     }
 
     public int incrementar() {
-        return this.valor + 1;
+        this.valor++;
+        return this.valor;
     }
 
     public int decrementar() {
         if (this.valor >= 1) {
-            return this.valor - 1;
+            this.valor--;
         }
         return this.valor;
     }
