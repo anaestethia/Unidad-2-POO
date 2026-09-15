@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec4f0028-6f2f-41da-83df-fcb65d6651fc" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/Ejercitacion-2-1-1/Ejercicio-5/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercitacion-2-1-1/Ejercicio-6/src/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercitacion-2-1-1/Ejercicio-6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercitacion-2-1-1/Ejercicio-7/src/CuentaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercitacion-2-1-1/Ejercicio-7/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercitacion-2-1-1/Ejercicio-5/Contador.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercitacion-2-1-1/Ejercicio-5/src/Contador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercitacion-2-1-1/Ejercicio-5/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Unidad-2-POO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad-2-POO.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
