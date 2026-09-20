@@ -1,32 +1,37 @@
 # Unidad 2 - Programación Orientada a Objetos
 
-Bienvenido a este repositorio de prácticas para la unidad de Programación Orientada a Objetos en Java.
+    +--------------------------------------+
+    | Java  /  POO  /  Ejercicios prácticos |
+    +--------------------------------------+
 
-Este proyecto reúne una serie de ejercicios que aplican conceptos clave como clases, objetos, atributos, constructores, encapsulamiento, métodos y flujo de control.
+Bienvenido a este repositorio de prácticas para la unidad de Programación Orientada a Objetos en Java. Aquí se aplican los conceptos básicos de la POO mediante ejercicios cortos, claros y funcionales.
 
-## 🎯 Objetivo
+## Objetivo
 
-Desarrollar habilidades para modelar soluciones reales mediante la POO, reforzando la lógica de programación y la organización del código.
+Desarrollar habilidades para modelar problemas reales con clases, objetos, atributos, métodos, encapsulamiento y lógica de comportamiento en Java.
 
-## 📚 Ejercicios incluidos
+## Ejercicios incluidos
 
-| Nº | Ejercicio | Concepto principal |
-|---|---|---|
-| 1 | Persona | Objetos y atributos |
-| 2 | Mascota | Constructores y datos de instancia |
-| 3 | Auto | Estados y métodos |
-| 4 | Calculadora | Operaciones y validaciones |
-| 5 | Contador | Lógica de estado |
-| 6 | Libro | Progreso de lectura |
-| 7 | Cuenta Bancaria | Encapsulamiento y saldo |
+| Nº | Ejercicio | Concepto principal | Estado |
+|---|---|---|---|
+| 1 | Persona | Objetos y atributos | OK |
+| 2 | Mascota | Constructores y datos de instancia | OK |
+| 3 | Auto | Estados y métodos | OK |
+| 4 | Calculadora | Operaciones y validaciones | OK |
+| 5 | Contador | Lógica de estado | OK |
+| 6 | Libro | Progreso de lectura | OK |
+| 7 | Cuenta Bancaria | Encapsulamiento y saldo | OK |
 
-## 🧩 Estructura del repositorio
+## Estructura del repositorio
 
 ```text
 Unidad-2-POO/
 ├── README.md
 ├── Ejercitacion-2-1-1/
 │   ├── Ejercicio-1/
+│   │   ├── README.md
+│   │   ├── captura/
+│   │   └── src/
 │   ├── Ejercicio-2/
 │   ├── Ejercicio-3/
 │   ├── Ejercicio-4/
@@ -36,21 +41,22 @@ Unidad-2-POO/
 └── ...
 ```
 
-## ▶️ Cómo ejecutar un ejercicio
+## Como ejecutar un ejercicio
 
-1. Accedé a la carpeta del ejercicio.
+1. Entrá a la carpeta del ejercicio.
 2. Compilá los archivos Java.
 3. Ejecutá la clase principal.
 
 ```bash
+cd Ejercitacion-2-1-1/Ejercicio-1
 javac src/*.java
 java -cp src Main
 ```
 
-## ✅ Estado del proyecto
+## Estado del proyecto
 
-Los ejercicios fueron revisados, corregidos y validados para que puedan ejecutarse correctamente.
+Todos los ejercicios fueron revisados, corregidos y validados para que puedan ejecutarse correctamente. Además, cada ejercicio cuenta con su propia carpeta de captura y su README con una presentación más clara.
 
 ---
 
-Desarrollado con Java para fortalecer los fundamentos de la programación orientada a objetos.
+Desarrollado con Java para fortalecer fundamentos sólidos de programación orientada a objetos.
