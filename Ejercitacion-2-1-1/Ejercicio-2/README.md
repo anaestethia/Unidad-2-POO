@@ -1,11 +1,29 @@
-# Ejercicio 02
+# Ejercicio 2: Mascota
 
-## Descripcion
+## Descripción
 
-Este programa realiza una clase llamada Mascota con nombre, tipo animal y edad.
+Este ejercicio crea una clase `Mascota` con nombre, especie y edad, usando un constructor para inicializar sus valores.
+
+## Objetivo
+
+Aprender a trabajar con constructores y objetos con datos específicos.
+
 ## Funcionamiento
----
 
-## Logica ultilizada
+Se crean tres mascotas con distintos nombres, especies y edades, y luego se muestran en consola.
 
-Para resolver ezl ejercicio se utilizó [clases/objetos/variables/contructores].
+![Captura de funcionamiento](captura/funcionamiento.png)
+
+## Lógica aplicada
+
+- Constructor de clase
+- Atributos de instancia
+- Creación de múltiples objetos
+- Formateo de salida
+
+## Código principal
+
+```java
+Mascota mascota1 = new Mascota("Ciro", "Perro", 3);
+System.out.println("Nombre: " + mascota1.nombre + ", especie: " + mascota1.especie + ", edad: " + mascota1.edad + " años.");
+```

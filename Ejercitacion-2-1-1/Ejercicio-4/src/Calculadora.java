@@ -14,8 +14,8 @@ public class Calculadora {
     public double dividir(double n1, double n2) {
         if (n2 == 0.0) {
             System.out.println("No se puede dividir por cero.");
+            return 0;
         }
-        return n1/n2;
-        }
+        return n1 / n2;
     }
 }
