@@ -10,18 +10,6 @@ Bienvenido a este repositorio de prácticas para la unidad de Programación Orie
 
 Desarrollar habilidades para modelar problemas reales con clases, objetos, atributos, métodos, encapsulamiento y lógica de comportamiento en Java.
 
-## Ejercicios incluidos
-
-| Nº | Ejercicio | Concepto principal | Estado |
-|---|---|---|---|
-| 1 | Persona | Objetos y atributos | OK |
-| 2 | Mascota | Constructores y datos de instancia | OK |
-| 3 | Auto | Estados y métodos | OK |
-| 4 | Calculadora | Operaciones y validaciones | OK |
-| 5 | Contador | Lógica de estado | OK |
-| 6 | Libro | Progreso de lectura | OK |
-| 7 | Cuenta Bancaria | Encapsulamiento y saldo | OK |
-
 ## Estructura del repositorio
 
 ```text
